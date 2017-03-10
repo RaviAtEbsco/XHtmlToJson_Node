@@ -34,5 +34,9 @@
   },
   "Message": {
     "dataSource": null
+  },
+  "XhtmlToJson": {
+    "dataSource": "db",
+    "public": true
   }
 }

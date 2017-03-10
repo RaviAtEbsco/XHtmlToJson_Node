@@ -1,0 +1,19 @@
+{
+  "name": "XhtmlToJson",
+  "base": "Model",
+  "idInjection": false,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "message":{
+      "type":"Message",
+      "required": "true",
+      "doc":"data"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
